@@ -1,1 +1,1 @@
-C:\Users\noahl\OneDrive\Documents\BYUI\ School\Spring\ 2024\CSE\ 310\Rust\ Project\hangman\target\debug\hangman.exe: C:\Users\noahl\OneDrive\Documents\BYUI\ School\Spring\ 2024\CSE\ 310\Rust\ Project\hangman\src\main.rs
+C:\Users\noahl\OneDrive\Documents\BYUI\ School\Spring\ 2024\CSE\ 310\Rust_Project\hangman\target\debug\hangman.exe: C:\Users\noahl\OneDrive\Documents\BYUI\ School\Spring\ 2024\CSE\ 310\Rust_Project\hangman\src\main.rs
